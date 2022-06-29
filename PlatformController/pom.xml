@@ -16,7 +16,7 @@
     <properties>
         <ipark-api.version>1.0.0-SNAPSHOT</ipark-api.version>
         <integriti-center.version>1.0.0-SNAPSHOT</integriti-center.version>
-        <poi.version>3.17</poi.version>
+        <poi.version>4.1.1</poi.version>
 
     </properties>
 
